@@ -2,6 +2,8 @@
 
 > Simple Dark Mode function
 
+A simple function testing the hooks useState and useRef from React
+
 ## Usage example
 
 The Dark Mode is a very usefull feature for every website/application.
