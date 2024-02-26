@@ -1,9 +1,21 @@
-# React + Vite
+# Product Name
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Simple Dark Mode function
 
-Currently, two official plugins are available:
+## Usage example
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# DataCamp-Git" 
+The Dark Mode is a very usefull feature for every website/application.
+
+## Development setup
+
+```sh
+npm install
+cd <project-name>
+npm run dev
+```
+
+## Meta
+
+guilherme-psferreira@Outlook.com
+
+[GitHub](https://github.com/GuiPSF)
